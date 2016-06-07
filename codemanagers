@@ -6,12 +6,26 @@
   
 
  1.) Player Controllor 
+          - Shoot Control 
+          - Movement Control
+          - Inventory Control
+          - Cmenu control
+          - Health control
  
  2.) Enemy Controllor 
+          - Shoot Control
+          - Movement Control
+          - InventoryDrop Control
+          
  
  3.) Game Manager 
+          - Light Control
+          - Camera Control
+          - 
  
  4.) Level Manager 
+          - Save Control 
+          - Load Control
  
  5.) Physics Manager 
  
