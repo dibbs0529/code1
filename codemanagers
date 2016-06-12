@@ -16,6 +16,7 @@
           - Shoot Control
           - Movement Control
           - InventoryDrop Control
+          - Enemy_patrol
           
  
  3.) Game Manager 
@@ -34,12 +35,22 @@
  7.) Map Manager 
  
  8.) Utilities Manager 
+          - Camera_a 
  
  9.) Object Generator 
  
- 10.) Menu Manager 
+ 10.) Menu Manager
+          - Menu_a
+          - Submenu_a 
+          
  
  11.) Save Manager
  
- 12.) ETC...
+ 12.) Animation Manager
+ 
+ 13.) Explosion Manager
+ 
+ 14.) Cutscene Manager 
+ 
+ 15.) Dialog Manager 
  
